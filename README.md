@@ -1,7 +1,7 @@
 # Supermarket Sales & Profit Analysis
 
 ## Project Overview
-This project presents a complete sales and gross-income analysis for supermarket transaction data as part of the IBM SkillsBuild Data Analytics with AI Academic Internship Program.
+This project presents a complete sales and gross-income analysis for supermarket transaction data.
 
 ## Problem Statement
 Analyze supermarket transactions to evaluate sales performance, gross-income trends, product and branch performance, customer behavior, payment patterns, and time-based sales trends, then provide actionable recommendations.
